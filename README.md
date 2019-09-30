@@ -11,11 +11,16 @@ When user change it latitude and longitude,In google map user Location is also c
 <b>User Character</b>: <b>Ash ketchum<b>. User location will change with changing in latitude and longitude<br>
 <B>POKEMON</B>: Their are some pokemon placed with static location like Bulbasaur,Charmander and many more
 
-
+# output
 ![alt text](https://github.com/soumitya0/POKEMON-TRAVEL/blob/master/1.PNG)<br>
+ 
 
 ![alt text](https://github.com/soumitya0/POKEMON-TRAVEL/blob/master/2.PNG)<br>
+here the pockemon is catch by the user and the power of pokemon is added to the user power<br>
+
 ![alt text](https://github.com/soumitya0/POKEMON-TRAVEL/blob/master/3.PNG)<br>
+new pockemon is catch by the user and the power of pokemon is added to the user power<br>
+
 
 
 
@@ -23,3 +28,8 @@ When user change it latitude and longitude,In google map user Location is also c
 <B>Video link</b>:https://drive.google.com/open?id=100_-JJHETaXxWt4xQVr7HefpxIUiyibC
 
 
+# Authors
+<br>
+ soumitya chauhan  <br>
+ github id : <b>soumitya0</b><br>
+ gmail id: <b>soumityachauhan@gmail.com<b></br>
