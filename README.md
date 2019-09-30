@@ -19,7 +19,7 @@ When user change it latitude and longitude,In google map user Location is also c
 here the pockemon is catch by the user and the power of pokemon is added to the user power<br>
 
 ![alt text](https://github.com/soumitya0/POKEMON-TRAVEL/blob/master/3.PNG)<br>
-new pockemon is catch by the user and the power of pokemon is added to the user power<br>
+new pockemon is catch by the user and the power of this  pokemon  and previous pokemon is added to the user power<br>
 
 
 
@@ -27,6 +27,7 @@ new pockemon is catch by the user and the power of pokemon is added to the user 
 
 <B>Video link</b>:https://drive.google.com/open?id=100_-JJHETaXxWt4xQVr7HefpxIUiyibC
 
+<B> update of this application will come soon</b>
 
 # Authors
 <br>
