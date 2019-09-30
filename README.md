@@ -11,6 +11,15 @@ When user change it latitude and longitude,In google map user Location is also c
 <b>User Character</b>: <b>Ash ketchum<b>. User location will change with changing in latitude and longitude<br>
 <B>POKEMON</B>: Their are some pokemon placed with static location like Bulbasaur,Charmander and many more
 
+
+![alt text](https://github.com/soumitya0/POKEMON-TRAVEL/blob/master/1.PNG)<br>
+
+![alt text](https://github.com/soumitya0/POKEMON-TRAVEL/blob/master/2.PNG)<br>
+![alt text](https://github.com/soumitya0/POKEMON-TRAVEL/blob/master/3.PNG)<br>
+
+
+
+
 <B>Video link</b>:https://drive.google.com/open?id=100_-JJHETaXxWt4xQVr7HefpxIUiyibC
 
 
