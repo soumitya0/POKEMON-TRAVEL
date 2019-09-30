@@ -2,7 +2,7 @@
  JUST LIKE POKEMON GO
 
 <B>Name</B>: POKEMON-TRAVEL</br>
-POKEMON-TRAVEL is an inspiration of PokemonGo the most popular game in PlayStore
+POKEMON-TRAVEL is an inspiration from PokemonGo the most popular game in PlayStore
 
 # About POKEMON-TRAVEL
 POKEMON-TRAVEL is a just a static application that have a GOOGLE MAP in  which their some static location for pokemon and  a user location.
