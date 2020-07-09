@@ -27,7 +27,6 @@ new pockemon is catch by the user and the power of this  pokemon  and previous p
 
 <B>App Video link</b>:https://drive.google.com/open?id=100_-JJHETaXxWt4xQVr7HefpxIUiyibC
 
-<B> update of this application will come soon</b>
 
 # Authors
 <br>
